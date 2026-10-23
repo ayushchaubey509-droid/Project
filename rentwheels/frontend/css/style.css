@@ -1,0 +1,6 @@
+:root{--ink:#16302b;--accent:#e8a33d;--bg:#f3f6f4}
+body{background:var(--bg);color:var(--ink);font-family:"Trebuchet MS",system-ui,sans-serif}
+.navbar{background:var(--ink)}.navbar-brand{color:var(--accent)!important;font-weight:700;letter-spacing:.5px}
+.card{border:1px solid #cfdad5;border-radius:6px}.btn-primary{background:var(--ink);border-color:var(--ink)}
+.btn-primary:hover{background:#0e201c}.price{font-size:1.3rem;font-weight:700;color:var(--ink)}
+.table-responsive{background:#fff;border-radius:6px}
